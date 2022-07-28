@@ -16,7 +16,7 @@ python3 record-job-app.py [-h] [--output-file csv-file] company-name job-title j
 Run the script above in your terminal of choice. The script takes an optional output file parameter, that when given
 will append the job application in CSV format. Otherwise it will print the result out to standard output.
 
-Below is an example of a table definition if you wish to copy the CSV data into a database(***potential streamlined support for this in the future***).
+Below is an example of a table definition if you wish to copy the CSV data into a database(**potential streamlined support for this in the future**).
 
 > The below assumes PostgreSQL ('text' datatype is Postgre specific)
 
